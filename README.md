@@ -5,8 +5,7 @@ I'm a Computer Science undergraduate at the University of Greenwich, currently b
 I’m interested in the point where technology meets people, especially human-centred systems, interactive digital experiences, AI, and digital design. I enjoy understanding not only how technology works, but also how people use it, feel about it, and connect through it. At the moment, I’m learning through coursework, small projects, and portfolio development. I’m still early in my journey, but I’m curious, open to growth, and interested in building things that are useful, thoughtful, and well-designed.
 
 # Currently learning
-
-Python · Object-oriented programming · Scheme · Algorithms and data structures · Flex/Bison · Web development · Git & GitHub
+AWS · Git & GitHub · Python · Java 
 
 # Projects
 * Portfolio Website * 
